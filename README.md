@@ -4,7 +4,7 @@
 Este repositorio contiene los ejercicios realizados como parte de la evaluación final del Módulo 2. Habia un total de 23 preguntas mas 2 preguntas bonus al final.
 
 ## Descripción del Ejercicio
-La evaluación consistió en una serie de preguntas y ejercicios que evaluaron mi comprensión y habilidades en SQL. Utilicé la base de datos Sakila, que simula una tienda de alquiler de películas, para realizar consultas y análisis de datos.
+La evaluación consistió en una serie de preguntas y ejercicios que evaluaron mi comprensión y habilidades en SQL. Utilicé la BBDD Sakila, que simula una tienda de alquiler de películas, para realizar consultas y análisis de datos.
 
 ## Ejercicios
 En los ejercicios, usé una variedad de consultas SQL, incluyendo selección de datos, uso de funciones, subconsultas y uso de JOINS.
